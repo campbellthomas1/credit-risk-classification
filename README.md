@@ -12,6 +12,8 @@
 
 ## Results
 
+![logreg](https://github.com/campbellthomas1/credit-risk-classification/assets/145702710/0de7adc6-2b67-4a82-b689-81a1ff7cecac)
+
 * Machine Learning Model 1: Logistic Regression
     * For the models accuracy, in my opinion it does a good job at giving us information about the healthy and high risk loans and if they are predicted correctly. There is much more data for healthy loans though so...
     * The precision for this model is 100% for healthy loans and 87% for high risk loans. This makes sense but could also be looked into further being that the precision could vary based on the data given and the machine learning outcome.
