@@ -21,7 +21,5 @@
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-
 * I would recommend this for company use being that it correctly predicted the healthy loans for precision and recall, with a high accuracy score as well. The only worry is the precision of the high risk loans being 87% and the recall being 95%. When dealing with high risk loans 15% precision and 5% recall may be a red flag? They would want those values as close to 99%-100%.
 * It is also more important to be able to predict the high risk loans. With the data set being skewed with much more healthy loans the machine may not have had enough data to look at for the high risk loans? When you are looking at the creditworthiness of borrowers I think it is important to have a model that accurately predicts high risk loans, especially if a company wants to use the model to help them.
